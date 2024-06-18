@@ -3,10 +3,6 @@ mysql
 redis
 minio/minio
 mongo
-elasticsearch
-kibana
-logstash
-filebeat
 nacos-server
 flowable-ui
 rabbitmq
@@ -14,6 +10,9 @@ rabbitmq:management
 openzipkin/zipkin
 bitnami/postgresql
 bitnami/consul
+bitnami/elasticsearch
+bitnami/kibana
+bitnami/logstash
 
 
 
