@@ -3,11 +3,8 @@ mysql
 redis
 minio/minio
 mongo
-nacos-server
-flowable-ui
 rabbitmq
 rabbitmq:management
-openzipkin/zipkin
 bitnami/postgresql
 bitnami/consul
 bitnami/elasticsearch
