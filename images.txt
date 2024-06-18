@@ -11,10 +11,7 @@ nacos-server
 flowable-ui
 rabbitmq
 rabbitmq:management
-grafana/grafana
 openzipkin/zipkin
-apache/skywalking-oap-server
-apache/skywalking-ui
 bitnami/postgresql
 bitnami/consul
 
