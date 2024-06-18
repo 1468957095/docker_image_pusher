@@ -1,5 +1,6 @@
 nginx
 mysql
+mysql:5.7
 redis
 minio/minio
 mongo
