@@ -1,11 +1,6 @@
-node
-python
-wordpress
-zookeeper
-solr
-mongo-express
-grafana/loki
-portainer/portainer-ce
-grafana/mimir
+prom/prometheus
+prom/alertmanager
+timonwong/prometheus-webhook-dingtalk
+seataio/seata-server
 
 
