@@ -1,4 +1,11 @@
-bitnami/kafka
-nacos/nacos-server
+node
+python
+wordpress
+zookeeper
+solr
+mongo-express
+grafana/loki
+portainer/portainer-ce
+grafana/mimir
 
 
