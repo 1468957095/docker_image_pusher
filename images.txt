@@ -1,15 +1,3 @@
-nginx
-mysql
-redis
-minio/minio
-mongo
-rabbitmq
-rabbitmq:management
-bitnami/postgresql
-bitnami/consul
-bitnami/elasticsearch
-bitnami/kibana
-bitnami/logstash
-
+apache/hertzbeat
 
 
