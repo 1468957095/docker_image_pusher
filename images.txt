@@ -1,4 +1,27 @@
-
-grafana/grafana
+nginx
+node
+influxdb
+bitnami/mysql
+bitnami/postgresql
+redislabs/redisinsight
+bitnami/redis
+mongo-express
+bitnami/mongodb
+elasticsearch
+kibana
+logstash
+bitnami/solr
+bitnami/zookeeper
+bitnami/minio
+bitnami/prometheus
+bitnami/grafana
+bitnami/alertmanager
+portainer/portainer-ce
+rabbitmq:3-management
+bitnami/rabbitmq
+bitnami/kafka
+dushixiang/kafka-map
+nacos/nacos-server
+bitnami/consul
 
 
