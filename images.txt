@@ -4,7 +4,6 @@ redis
 minio/minio
 mongo
 postgres
-rabbitmq:3-management
 consul
 solr
 elasticsearch
