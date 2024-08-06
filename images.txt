@@ -4,8 +4,6 @@ redis
 minio/minio
 mongo
 postgres
-consul
-solr
 elasticsearch
 kibana
 logstash
