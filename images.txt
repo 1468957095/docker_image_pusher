@@ -12,5 +12,3 @@ grafana/grafana
 prom/alertmanager
 apache/kafka:3.8.0
 rabbitmq:4.0-rc-management
-
-
