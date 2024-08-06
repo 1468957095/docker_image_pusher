@@ -1,15 +1,16 @@
 nginx
 mysql
 redis
-minio/minio
+minio/minio:RELEASE.2024-08-03T04-33-23Z-cpuv1
 mongo
 postgres
-elasticsearch
-kibana
-logstash
-prom/prometheus
-grafana/grafana
-prom/alertmanager
+elasticsearch:7.17.23
+kibana:7.17.23
+logstash:7.17.23
+prom/prometheus:latest
+grafana/grafana:latest
+prom/alertmanager:latest
 apache/kafka:3.8.0
+rabbitmq:4.0-rc-management
 
 
