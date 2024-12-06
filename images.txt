@@ -1,4 +1,2 @@
-bladex/sentinel-dashboard:1.8.8
-nginx:1.27.3
-apache/seata-server
-nacos/nacos-server:2.0.2
+mongo:7.0.16-rc1
+mongo-express:1.0-18-alpine3.19
